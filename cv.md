@@ -1,24 +1,23 @@
-# rsschool-cv #
+## Igor Matiukhin ##
 
-## Igor Matyukhin ##
-
-| Discord:     | Matiasukr#2600                                                                |
+|Discord:  Matiasukr#2600                                                                |
 |--------------|-------------------------------------------------------------------------------|
-| Phone:       | +380960157673                                                                 |
-| E-Mail:      | matias63@ukr.net                                                              |
+|Phone:       | +380960157673                                                                 |
+|E-Mail:      | matias63@ukr.net                                                              |
 |              |                                                                               |
-| Birthday:    | 3 December 1963                                                               |
-| Citizenship: | Ukraine                                                                       |
-| Education:   | Donetsk Polytechnic Institute, faculty: chemical technology Graduated in 1986 |
+|Birthday:    | 3 December 1963                                                               |
+|Citizenship: | Ukraine                                                                       |
+|Education:   | Donetsk Polytechnic Institute, faculty: chemical technology Graduated in 1986 |
 
-About myself:
+__About myself:__
 
-Native in Russian and Ukrainian,
+__Languages:__
 
-English – pre-intermediate level. 
++ Russian - native
++ Ukrainian - native
+* English – pre-intermediate level. 
 
-Advanced PC user, including all MS Office applications, etc.
+> Advanced PC user, including all MS Office applications, etc.
 
-Hobbies: self-education, mini-football, tennis, hiking
-
-Work experience: Everything in the future!
+> [!] Work experience: Everything 
+in the future!
