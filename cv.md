@@ -1,7 +1,7 @@
 ## Igor Matiukhin ##
 ***
 
-|Discord:   |      Matiasukr#2600                                                                |
+|Discord:   |       Matiasukr#2600                                                                |
 |--------------|-------------------------------------------------------------------------------|
 |Phone:       | +380960157673                                                                 |
 |E-Mail:      | matias63@ukr.net                                                              |
@@ -16,7 +16,7 @@ __Languages:__
 
 + Russian - native
 + Ukrainian - native
-* English – pre-intermediate level. 
++ English – pre-intermediate level. 
 
 Advanced PC user, including all MS Office applications, etc.
 
